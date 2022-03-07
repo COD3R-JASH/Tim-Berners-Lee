@@ -80,3 +80,6 @@ margin: 8px auto;
     font-family:cursive;
     padding: 50px;
 }
+a {
+    text-decoration: none;
+}
